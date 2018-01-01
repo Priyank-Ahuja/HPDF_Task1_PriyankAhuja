@@ -2,6 +2,7 @@ Running the app locally
 
 git clone https://github.com/Priyank-Ahuja/HPDF_Task1_PriyankAhuja
 cd HPDF_Task1_PriyankAhuja
+
 npm install
 
 npm start
